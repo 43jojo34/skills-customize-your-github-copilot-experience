@@ -72,6 +72,25 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "python-testing-pytest",
+      "title": "Testing Python Functions with pytest",
+      "description": "Write and run automated tests with pytest, using assertions and edge cases to check Python functions.",
+      "path": "assignments/python-testing-pytest",
+      "dueDate": "2026-11-16",
+      "attachments": [
+        {
+          "name": "Function Module",
+          "file": "functions.py",
+          "type": "python"
+        },
+        {
+          "name": "Starter Tests",
+          "file": "test_functions.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
